@@ -1,0 +1,13 @@
+2025-03-06 08:23:30 [info] [server]: Server running in development mode on port 3000
+2025-03-06 08:24:00 [error] [database]: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 08:25:54 [info] [server]: Server running in development mode on port 3000
+2025-03-06 08:26:24 [error] [database]: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 08:39:43 [info] [database]: Connecting to MongoDB: clusterlou.yh9fn.mongodb.net/?retryWrites=true&w=majority&appName=ClusterLou
+2025-03-06 08:39:43 [info] [server]: Server running in development mode on port 3000
+2025-03-06 08:39:45 [info] [database]: MongoDB Connected: clusterlou-shard-00-00.yh9fn.mongodb.net
+2025-03-06 08:40:06 [info] [database]: Connecting to MongoDB: clusterlou.yh9fn.mongodb.net/?retryWrites=true&w=majority&appName=ClusterLou
+2025-03-06 08:40:06 [info] [server]: Server running in development mode on port 3000
+2025-03-06 08:40:07 [info] [database]: MongoDB Connected: clusterlou-shard-00-01.yh9fn.mongodb.net
+2025-03-06 08:40:47 [info] [database]: Connecting to MongoDB: clusterlou.yh9fn.mongodb.net/?retryWrites=true&w=majority&appName=ClusterLou
+2025-03-06 08:40:47 [info] [server]: Server running in development mode on port 3000
+2025-03-06 08:40:48 [info] [database]: MongoDB Connected: clusterlou-shard-00-02.yh9fn.mongodb.net
